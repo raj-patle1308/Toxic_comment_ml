@@ -186,7 +186,7 @@ def run_toxic():
             result = "Non-Toxic"
         messagebox.showinfo("Classification Result", f"The comment is {result}.")
     
-    root = Tk()
+    root = tk.Tk()
     root.title("Login")
     root.geometry('925x500+300+200')
     root.configure(bg="#fff")
