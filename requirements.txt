@@ -4,6 +4,8 @@ joblib==1.4.2
 nltk==3.8.1
 numpy==1.26.4
 pandas
+pickle
+re
 python-dateutil==2.9.0.post0
 pytz==2024.1
 regex==2024.4.28
