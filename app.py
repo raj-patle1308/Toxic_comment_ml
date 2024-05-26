@@ -114,8 +114,8 @@ def run_toxic():
     import pickle
     import nltk
     import re
-
-    from tkinter import messagebox
+    import tk
+    from tk import messagebox
     
     # Download NLTK resources
     nltk.download("punkt")
