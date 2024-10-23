@@ -67,7 +67,7 @@ This project requires several Python libraries. Make sure to install the followi
 
 ## 📸 Screenshots
 ![2](https://github.com/user-attachments/assets/75a91428-e9da-42b9-86ba-f9050dc20f5e)
-![3](https://github.com/user-attachments/assets/04cac39a-733e-41e0-933f-6207885bed23)
+![3](https://github.com/user-attachments/assets/73a9063d-1af3-438f-806e-beecba603b89)
 ![1](https://github.com/user-attachments/assets/93fa3687-9cbb-405d-a4ff-c42f4f61d35a)
 
 ## 💡 Future Improvements
